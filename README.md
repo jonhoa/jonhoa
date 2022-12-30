@@ -3,11 +3,10 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 
 <hr/>
 <ul>
-<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg", height = "20px"></li>
-<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg", height ="20px"></li>
-<li><img src =" ", height ="20px"></li>
-<li><img src =" ", height ="20px"></li>
-<li><img src =" ", height ="20px"></li>  
+<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg", height = "20px"></li> <li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg", height ="30px"></li>
+<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-plain.svg", height ="20px"></li>
+<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg", height ="20px"></li>
+<li><img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg", height ="20px"></li>  
 </ul>
 - 🔭 I’m currently working on a webscraper utility in Ruby/Rails
 - 🌱 I’m currently learning Production environment coding practices and mob coding
