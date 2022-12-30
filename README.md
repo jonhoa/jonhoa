@@ -2,7 +2,7 @@
 I'm a passionate Software developer who loves to code. I enjoy solving complex problems and utilizing my analytical skills to build new apps. 
 
 <hr/>
-<img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg">
+<img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg", height = "20px">
 - 🔭 I’m currently working on a webscraper utility in Ruby/Rails
 - 🌱 I’m currently learning Production environment coding practices and mob coding
 - 👯 I’m looking to collaborate on building a full-scale production level app
