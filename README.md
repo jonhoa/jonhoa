@@ -11,10 +11,11 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 </p>  
 
 <h2>Things I'm Working on</h2>
-- 🔭 I’m currently working on a webscraper utility in Ruby/Rails
-- 🌱 I’m currently learning Production environment coding practices and mob coding
-- 👯 I’m looking to collaborate on building a full-scale production level app
-
+<ul>
+<li> 🔭 I’m currently working on a webscraper utility in Ruby/Rails</li>
+<li> 🌱 I’m currently learning Production environment coding practices and mob coding</li>
+<li> 👯 I’m looking to collaborate on building a full-scale production level app</li>
+</ul>
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
