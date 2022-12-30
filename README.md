@@ -1,6 +1,6 @@
 ### Hi, I'm Jonathan 👋
 I'm a passionate Software developer who loves to code. I enjoy solving complex problems and utilizing my analytical skills to build new apps. 
-<hr/>
+
 <h2> Some Tools I've Learned</h2>
 <p align ="left">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg" width="45px" height = "45px">
