@@ -8,8 +8,12 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-plain.svg" width="45px" height ="45px">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg" width="45px" height ="45px">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" width="45px" height ="45px">
-</p>  
+</p> 
 
+<h2>{Capstone} Projects </h2>
+<ul>
+  <li><strong>Med Dose:</strong> <p>A backend API generated with Rails that tracks a users medicine prescriptions.</p><small>MVP, CRUD, POSTGRES, RAILS,RUBY</small></li>
+  </ul>
 <h2>Things I'm Working on</h2>
 <ul>
 <li> 🔭 I’m currently working on a webscraper utility in Ruby/Rails</li>
