@@ -12,7 +12,9 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 
 <h2>{Capstone} Projects </h2>
 <ul>
-  <li><strong>Med Dose:</strong>A backend API generated with Rails that tracks a users medicine prescriptions.<p>MVP, CRUD, POSTGRES, RAILS,RUBY</p></li>
+  <li><strong>Web Scraper:</strong>  Ruby backend Api that scraps table data off a website using Nokogiri, HTTPARTY, & ByeBug Gems {Terminal,RUBY}</li>
+  <li><strong>Med Dose:</strong> A backend App generated with Rails that tracks a users medicine prescriptions. {MVP, CRUD, POSTGRES, RAILS,RUBY}</li>
+  <li><strong>AnimeWatch :</strong> A Fullstack App created with Rails and Reactjs that adds lets users watch trailers, favorite item and interact with a dynamic backend Api (Kitsu Api) consisting of 10,000+ records in a User-friendly way. {React, Routes, Axios, Bootstrap, MVP, CRUD, POSTGRES, Rails}</li>
   </ul>
 <h2>Things I'm Working on</h2>
 <ul>
