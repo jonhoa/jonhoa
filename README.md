@@ -12,7 +12,7 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 
 <h2>{Capstone} Projects </h2>
 <ul>
-  <li><strong>Med Dose:</strong> <p>A backend API generated with Rails that tracks a users medicine prescriptions.<small>MVP, CRUD, POSTGRES, RAILS,RUBY</small></p></li>
+  <li><strong>Med Dose:</strong>A backend API generated with Rails that tracks a users medicine prescriptions.<p>MVP, CRUD, POSTGRES, RAILS,RUBY</p></li>
   </ul>
 <h2>Things I'm Working on</h2>
 <ul>
