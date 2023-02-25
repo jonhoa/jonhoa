@@ -1,4 +1,4 @@
-### Hi, I'm Jonathan 👋
+### Howdy 👋
 <p>I'm a passionate Software developer who loves to code. I enjoy solving complex problems and utilizing my analytical skills to build new apps.</p> 
 <img class ="img-keyboard" src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif"></img>
   <p align= "left">
@@ -8,15 +8,6 @@
     <li>The unknown can be learnt</li>
    </ul>
 </p>
-
-  <style>
-    .haiku {
-    list-style-type: none;
-    }
-    .img-keyboard {
-    float:left;
-    }
-  </style>
 
 <h2> Some Tools I've Learned</h2>
 <p align ="left">
