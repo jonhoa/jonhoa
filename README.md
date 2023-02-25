@@ -1,8 +1,8 @@
 ### Hi, I'm Jonathan 👋
 <p>I'm a passionate Software developer who loves to code. I enjoy solving complex problems and utilizing my analytical skills to build new apps.</p> 
-<img src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif" style="float:left"></img>
+<img src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif" style="float: left"></img>
 <p align= "left">
-  <ul style="list-style-type:none">
+  <ul style="list-style-type: none">
     <li>Don't be afraid</li>
     <li>of what you know</li>
     <li>The unknown can be learnt</li>
