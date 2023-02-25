@@ -4,6 +4,7 @@ I'm a passionate Software developer who loves to code. I enjoy solving complex p
 <h2> Some Tools I've Learned</h2>
 <p align ="left">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-plain.svg" width="45px" height = "45px">
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45px" height = "45px">  
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg" width="45px" height ="45px">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-plain.svg" width="45px" height ="45px">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg" width="45px" height ="45px">
