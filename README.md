@@ -1,6 +1,6 @@
 ### Hi, I'm Jonathan 👋
 I'm a passionate Software developer who loves to code. I enjoy solving complex problems and utilizing my analytical skills to build new apps. 
-<img src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif"/>
+<img src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif">
 
 <h2> Some Tools I've Learned</h2>
 <p align ="left">
