@@ -3,11 +3,11 @@
 <p>I'm <strong>Jonathan </strong>, a problem solver that genuinely likes to code snippets. Here, I get to showcase some of the projects I've been working on throughtout my freetime -exploring various technologies as I build my skills. One thing I keep in mind is that <q>Practice makes perfect</q>, and so I hope you'll stick around to watch my growth.</p> 
 <img class ="img-keyboard" src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif"></img>
 
-<h2>{Capstone} Projects </h2>
+<h2>Capstone Projects </h2>
 <ul>
   <li><strong>Web Scraper:</strong>  Ruby backend Api that scraps table data off a website using Nokogiri, HTTPARTY, & ByeBug Gems {Terminal,RUBY}</li>
   <li><strong>Med Dose:</strong> A backend App generated with Rails that tracks a users medicine prescriptions. {MVP, CRUD, POSTGRES, RAILS,RUBY}</li>
-  <li><strong>AnimeWatch :</strong> A Fullstack App created with Rails and Reactjs that adds lets users watch trailers, favorite item and interact with a dynamic backend Api (Kitsu Api) consisting of 10,000+ records in a User-friendly way. {React, Routes, Axios, Bootstrap, MVP, CRUD, POSTGRES, Rails}</li>
+  <li><strong><a href = "https://github.com/jonhoa/anime-frontend">AnimeWatch :</strong></a> A Fullstack App created with Rails and Reactjs that adds lets users watch trailers, favorite item and interact with a dynamic backend Api (Kitsu Api) consisting of 10,000+ records in a User-friendly way. {React, Routes, Axios, Bootstrap, MVP, CRUD, POSTGRES, Rails}</li>
   </ul>
 <h2>Things I'm Working on</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonhoa&label=Profile%20views&color=0e75b6&style=flat" alt="jonhoa" /> </p>
