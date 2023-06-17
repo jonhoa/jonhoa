@@ -7,7 +7,7 @@
 <ul>
   <li><strong>Web Scraper:</strong>  Ruby backend Api that scraps table data off a website using Nokogiri, HTTPARTY, & ByeBug Gems {Terminal,RUBY}</li>
   <li><strong><a href= "https://github.com/jonhoa/med_dose">Med Dose:</a></strong> A backend App generated with Rails that tracks a users medicine prescriptions. {MVP, CRUD, POSTGRES, RAILS,RUBY}. (Demo)</li>
-  <li><strong><a href = "https://github.com/jonhoa/anime-frontend">AnimeWatch|</a><a target="_blank" href = "https://animewatch-site.netlify.app">Demo</a></strong> A Fullstack App(now Serverless) created with Rails and Reactjs that adds lets users watch trailers, favorite item and interact with a dynamic backend Api (Kitsu Api) consisting of 10,000+ records in a User-friendly way. {React, Routes, Axios, Bootstrap, MVP, CRUD, POSTGRES, Rails, FaunaDB}.</li>
+  <li><strong><a href = "https://github.com/jonhoa/anime-frontend">AnimeWatch|</a><a onclick="window.open(this.href,'_blank');return false;" href = "https://animewatch-site.netlify.app">Demo</a></strong> A Fullstack App(now Serverless) created with Rails and Reactjs that adds lets users watch trailers, favorite item and interact with a dynamic backend Api (Kitsu Api) consisting of 10,000+ records in a User-friendly way. {React, Routes, Axios, Bootstrap, MVP, CRUD, POSTGRES, Rails, FaunaDB}.</li>
   </ul>
 <h2>Things I'm Working on.....</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonhoa&label=Profile%20views&color=0e75b6&style=flat" alt="jonhoa" /> </p>
