@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋.</h1>
+### <h1 align="center">Hi 👋...</h1>
 <h3 align="center">Software Engineer</h3>
 <p>I'm <strong>Jonathan </strong>, a problem solver that genuinely likes to code snippets. Here, I get to showcase some of the projects I've been working on throughtout my freetime -exploring various technologies as I build my skills. One thing I keep in mind is that <q>Practice makes perfect</q>, and so I hope you'll stick around to watch my growth.</p> 
 <img class ="img-keyboard" src ="https://i.pinimg.com/originals/bf/57/a1/bf57a174dbde79bac6d06018436497d1.gif"></img>
